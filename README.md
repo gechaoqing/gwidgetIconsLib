@@ -12,4 +12,6 @@ IconView简介
 	gwidget:iconColor ------图形/图标颜色
 	gwidget:iconSize  ------图形/图标大小
 ### 2.图例
-![github](https://github.com/gechaoqing/gwidget/blob/master/icon.jpg) 
+![github](https://github.com/gechaoqing/gwidgetIconsLib/blob/master/icons_1.jpg) 
+![github](https://github.com/gechaoqing/gwidgetIconsLib/blob/master/icons_2.jpg) 
+![github](https://github.com/gechaoqing/gwidgetIconsLib/blob/master/icons_3.jpg) 
